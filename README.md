@@ -62,9 +62,9 @@
 
 <br>
 <div align="center">
-  <button onclick="alert('b1h0');" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.gg/HAdG9y5GU9" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/?size=95&id=D2NqKl85S8Ye&format=png" alt="discord-server" />
-  </button>
+  </a>
   <a href="mailto:mail@bahae.mw" target="top" rel="noopener noreferrer">
   <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="bed=email"/>
   </a>
